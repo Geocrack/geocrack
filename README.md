@@ -14,11 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geocrack&show_icons=true&locale=en" alt="geocrack" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geocrack&" alt="geocrack" /></p>
-
-
-### 📊 GitHub Stats
-[![Geocracks's GitHub stats](https://github-readme-stats.vercel.app/api?username=geocrack)]
-
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
